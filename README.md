@@ -11,6 +11,5 @@ This repository contains the homework exercises for the **Deep Learning Course**
 - Homework 5: Autoencoders – Learn about autoencoders for unsupervised learning, including basic, denoising, and sparse autoencoders for feature extraction and dimensionality reduction.
 - Homework 6: Variational Autoencoders (VAEs) – Dive into generative modeling with VAEs, focusing on latent space representation and variational inference for generating new data.
 
-**Setup**
----
+## Setup
 Run on Google Colab: open the provided notebooks directly in Google Colab by clicking the "Open in Colab" link at the top of each notebook.
